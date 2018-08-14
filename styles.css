@@ -3,17 +3,22 @@ body{
 }
 
 #header {
-margin: 10px;
+margin: 5px;
 padding: 60px;	 
 background-color: black;  
+border: black solid 1px;
 }
 
 #content{
-position: absolute;
-padding: 100px;
-background-color: red;
+margin: 5px;
+padding: 250px;
+background-color: grey;
+border: black solid 1px;
 }
 
 #footer {
-
+margin: 5px;
+padding: 100px;
+background-color: lightgray;
+border: black solid 1px;
 }
