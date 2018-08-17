@@ -13,7 +13,8 @@ background-color: #e4d1d1;
 }
 
 
-#block1{float: left;
+#block1{
+	float: left;
 	width: 30%;
 	height: 300px; /* only for demonstration, should be removed */
 	background: #ccc;;
@@ -38,10 +39,10 @@ border-right: black solid 1px;
 }
 
 #block3 {
-	padding: 20px;
-    width: 100%;
-    background-color: #f1f1f1;
-    height: 297px;
+padding: 20px;
+width: 100%;
+background-color: #f1f1f1;
+height: 297px;
 	}
 
 #block4
@@ -54,9 +55,9 @@ height: 300px;
 }
 
 section:after {
-    content: "";
-    display: table;
-    clear: both;
+content: "";
+display: table;
+clear: both;
 }
 
 section {
