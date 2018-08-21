@@ -29,7 +29,7 @@ div#block2 {
 #block2{
 float: left;
 width: 30%;
-height: 300px; /* only for demonstration, should be removed */
+height: 340px; /* only for demonstration, should be removed */
 background: #ccc;
 padding: 20px;
 display: inline;
